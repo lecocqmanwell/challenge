@@ -8,7 +8,14 @@ h1{
   color: white;
 margin: 264px 241px 40px;
 }
-h3{
+h2{
   color: white;
-margin: 20px 480px 40px;
+margin: 20px 440px 40px;
+}
+
+#boutonAccueil{
+  margin: 10px 525px;
+  font-size: 1.2em;
+  padding: 5px;
+
 }
